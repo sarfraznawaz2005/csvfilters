@@ -1,0 +1,8 @@
+/vendor
+/.idea
+/.vscode
+/.vagrant
+/database/database.sqlite
+/builds/
+/composer.lock
+/data/
